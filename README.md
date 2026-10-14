@@ -4,4 +4,4 @@ This repository holds only the public privacy policy for the Kettle & Kite Pinte
 integration is a private tool the shop owner uses to publish the shop's own Pins to its own Pinterest
 business account.
 
-The policy is published with GitHub Pages: https://spencerharlow11.github.io/kettleandkite-privacy/
+The policy is published with GitHub Pages: https://spencerharlow11.github.io/kettle-and-kite-privacy/
