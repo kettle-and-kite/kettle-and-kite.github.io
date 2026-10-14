@@ -1,6 +1,9 @@
-# Kettle & Kite: Pinterest integration privacy policy
+# Kettle & Kite Pin Publisher
 
-This repository holds only the public privacy policy for the Kettle & Kite Pinterest integration, a private
-tool the shop owner uses to publish the shop's own Pins to its own Pinterest business account.
+The public site for Kettle & Kite Pin Publisher, the private internal tool the Kettle & Kite shop owner
+uses to publish the shop's own Pins to its own Pinterest business account.
 
-The policy is published with GitHub Pages: https://kettle-and-kite.github.io/
+- Landing page: https://kettle-and-kite.github.io/
+- Privacy policy: https://kettle-and-kite.github.io/privacy-policy/
+
+The site is two static pages served by GitHub Pages. It has no scripts, cookies or analytics.
